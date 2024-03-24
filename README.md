@@ -1,6 +1,5 @@
-<h2 align="center">Hello, i`m beastcom</h1>
+
 <h3 align="center">Developer of extensions, programs and other...</h3>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=beastcom74.beastcom74&right_color=green&left_text=Profile%20views"  />
 <br><br>
 
 <ul>
@@ -27,4 +26,5 @@
 
 <blockquote> What decides the fate of mankind in this world? Is it some invisible being or a law, like the Hand of God hovering over the world? At least it is true that man has no power even over his own will. </blockquote>
 
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=beastcom74.beastcom74&right_color=green&left_text=Profile%20views"  />
 <p align="right">2023 - 2024 in 374 Team Founder.</p>
