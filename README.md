@@ -1,5 +1,5 @@
 <h2 align="center">Hello, i`m beastcom</h1>
-<h3 align="center">I`m developer of extensions, programs and other...</h3>
+<h3 align="center">Developer of extensions, programs and other...</h3>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=beastcom74.beastcom74&right_color=green&left_text=Profile%20views"  />
 <br><br>
 
