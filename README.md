@@ -1,4 +1,4 @@
-<p align="center">Developer of extensions, programs and other...</p>
+<p align="center">Weak developer of extensions, programs and other...</p>
 <p align="center">Languages and tools</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="35" alt="html5 logo"  />
@@ -30,4 +30,4 @@
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=beastcom74.beastcom74&right_color=green&left_text=Profile%20views"  />
 
-<img align="right" src="https://img.shields.io/badge/374 Team-9EC3FF"/>
+<img align="right" src="https://img.shields.io/badge/19 years old-FFBF00"/>
