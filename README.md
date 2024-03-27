@@ -16,8 +16,8 @@
 
 <h2>Repositories</h2>
 <ul>
-   <li>TikTokM</li>
-   <li>DiscordM</li>
+   <li>DiscordBC</li>
+   <li>TikTokBC</li>
 </ul>
 <h2>Contact me</h2>
 <ul>
