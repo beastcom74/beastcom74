@@ -28,6 +28,4 @@
 
 <blockquote> What decides the fate of mankind in this world? Is it some invisible being or a law, like the Hand of God hovering over the world? At least it is true that man has no power even over his own will. </blockquote>
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=beastcom74.beastcom74&right_color=green&left_text=Profile%20views"  />
-
-<img align="right" src="https://img.shields.io/badge/19 years old-FFBF00"/>
+![](https://komarev.com/ghpvc/?username=beastcom74)
