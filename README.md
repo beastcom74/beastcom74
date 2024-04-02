@@ -19,9 +19,3 @@
    <li>DiscordBC</li>
    <li>TikTokBC</li>
 </ul>
-<h2>Contact me</h2>
-<ul>
-   <li>Discord: beastcom</li>
-   <li>E-mail: oleksandrlysenko74@gmail.com</li>
-   
-</ul>
