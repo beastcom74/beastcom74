@@ -16,6 +16,6 @@
 
 <h2>Repositories</h2>
 <ul>
-   <li>DiscordBC</li>
-   <li>TikTokBC</li>
+   <li>DiscordBC - Theme for discord app</li>
+   <li>TikTokBC - Extension for TikTok site</li>
 </ul>
